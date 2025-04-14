@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gerayk.iml" filepath="$PROJECT_DIR$/gerayk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gerayk_android.iml" filepath="$PROJECT_DIR$/android/gerayk_android.iml" />
+    </modules>
+  </component>
+</project>
